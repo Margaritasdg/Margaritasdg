@@ -22,7 +22,7 @@
                                  
                                  🙋‍♀️Me gusta trabajar en equipo, aprendo rápido, soy proactiva, me gustan los retos.
                                  
-                                 🛠Idiomas y herramientas:
+                               🛠Idiomas y herramientas:
                                                           *Javascript
                                                           *React.js
                                                           *Node.js
